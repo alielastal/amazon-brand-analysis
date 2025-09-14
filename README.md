@@ -24,7 +24,7 @@ amazon-brand-analysis/
 ```bash
 git clone https://github.com/alielastal/amazon-brand-analysis.git
 cd amazon-brand-analysis
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
 🎮 Usage
 Run notebooks in order (01 to 06)

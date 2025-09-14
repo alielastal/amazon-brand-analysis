@@ -10,7 +10,7 @@ Advanced data analysis and machine learning project for Amazon electronics produ
 - **RESTful API**: Ready-to-deploy recommendation API
 
 ## 📁 Project Structure
-
+```
 amazon-brand-analysis/
 ├── data/ # Cleaned dataset
 ├── notebooks/ # Jupyter notebooks (full analysis)
@@ -18,7 +18,7 @@ amazon-brand-analysis/
 ├── docs/ # Documentation and visuals
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
+```
 
 ## 🛠️ Installation
 ```bash

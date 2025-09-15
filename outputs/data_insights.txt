@@ -1,0 +1,22 @@
+Conclusions and insights from exploratory data analysis
+==================================================
+Analysis date: 2025-09-15 09:36:47
+Number of products: 278
+Number of columns: 29
+
+1. Numerical variables:
+   - price: mean = 26.21, median = 14.99
+   - rating: mean = 4.50, median = 4.50
+   - review_count: mean = 4061.12, median = 713.50
+
+2. Missing values:
+   - tech_product_dimensions: 112 missing values (40.3%)
+   - tech_date_first_available: 78 missing values (28.1%)
+   - tech_item_model_number: 70 missing values (25.2%)
+   - tech_asin: 58 missing values (20.9%)
+   - tech_customer_reviews: 55 missing values (19.8%)
+
+3. Relationships between variables:
+   - price vs rating: correlation = -0.028
+   - price vs review_count: correlation = -0.074
+   - rating vs review_count: correlation = 0.144

@@ -29,9 +29,6 @@ cd amazon-brand-analysis
 pip install -r requirements.txt
 ```
 
-
-
-
 ## 📊 Results Highlights
 HP: Premium quality leader ($61.64, 4.7⭐)
 
@@ -41,7 +38,10 @@ JJC: Best value proposition ($11.86, 4.5⭐)
 
 269 products across 229 brands analyzed
 
-🌐 API Endpoints
+## 🌐 API Endpoints
+
+- `GET /` - API root with endpoint information
+
 GET /recommend/content/<product_id>
 
 POST /recommend/preferences
@@ -50,5 +50,5 @@ GET /recommend/strategy/<strategy_type>
 
 GET /brands, /categories, /products
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to fork and contribute to this project!

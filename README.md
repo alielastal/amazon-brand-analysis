@@ -41,14 +41,17 @@ JJC: Best value proposition ($11.86, 4.5⭐)
 ## 🌐 API Endpoints
 
 - `GET /` - API root with endpoint information
+- `GET /health` - Health check endpoint
+- `GET /api/v1/products` - Get products with filtering options
+- `GET /api/v1/products/{id}` - Get specific product by ID
+- `GET /api/v1/brands` - Get all available brands
+- `GET /api/v1/categories` - Get all product categories
+- `GET /api/v1/recommendations/content-based/{id}` - Content-based product recommendations
+- `POST /api/v1/recommendations/user-based` - User preference-based recommendations
+- `GET /api/v1/recommendations/strategy-based/{type}` - Strategy-based recommendations
+- `GET /api/v1/stats/price-distribution` - Price statistics and distribution
+- `GET /api/v1/stats/brand-stats` - Brand performance statistics
 
-GET /recommend/content/<product_id>
-
-POST /recommend/preferences
-
-GET /recommend/strategy/<strategy_type>
-
-GET /brands, /categories, /products
 
 ## 🤝 Contributing
 Feel free to fork and contribute to this project!

@@ -1,6 +1,6 @@
 # 🎯 Amazon Electronics Brand Analysis & Recommendation System
 
-![docs/images](banner.png)
+![Banner](docs/images/banner.png)
 
 ## 📊 Project Overview
 Advanced data analysis and machine learning project for Amazon electronics products, featuring brand analysis, price prediction, and intelligent recommendation system.

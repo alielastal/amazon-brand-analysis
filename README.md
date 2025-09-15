@@ -26,17 +26,12 @@ amazon-brand-analysis/
 ```bash
 git clone https://github.com/alielastal/amazon-brand-analysis.git
 cd amazon-brand-analysis
-pip install -r requirements.txt
-
-🎮 Usage
-Run notebooks in order (01 to 06)
-
-Deploy API: python src/07_API_Deployment.py
-
-Access endpoints: http://localhost:5000
+pip install -r requirements.txt ```
 
 
-📊 Results Highlights
+
+
+## 📊 Results Highlights
 HP: Premium quality leader ($61.64, 4.7⭐)
 
 JJC: Best value proposition ($11.86, 4.5⭐)

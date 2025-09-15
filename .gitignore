@@ -32,6 +32,9 @@ MANIFEST
 *.h5
 *.model
 
+# Allow CSV files inside the data folder
+!data/*.csv
+
 # Environment
 .env
 .venv

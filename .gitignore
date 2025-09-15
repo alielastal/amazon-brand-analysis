@@ -26,8 +26,8 @@ MANIFEST
 .ipynb_checkpoints
 
 # Data files
-*.csv
-*.pkl
+!*.csv
+!*.pkl
 *.pth
 *.h5
 *.model
